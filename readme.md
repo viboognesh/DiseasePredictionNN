@@ -1,0 +1,1 @@
+This program takes in dataset that contains 132 symptoms of disease and corresponding prognosis for the symptoms. We train a neural network to predict the prognosis based on the symptoms given. This program would be greatly useful for doctors who have to accurately diagnose a disease based on the symptoms as a great second opinion on the diagnosis.
